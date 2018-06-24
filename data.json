@@ -1,0 +1,25 @@
+{
+  "basics":{
+    "name":"sowjanya",
+    "email":"karpurapusowjanya97@gmail.com",
+    "mobile":"+91-9999999998"
+  },
+  "education":[
+
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2015-19","74%"]
+    },
+    {
+      "degree":"Intermediate/Diploma",
+      "institute":"Narayana junior college",
+      "data":["2013-15","86.5%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Aravinda high school",
+      "data":["2012-13","7.8"]
+    }
+  ]
+}
