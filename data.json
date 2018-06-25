@@ -4,6 +4,11 @@
     "email":"karpurapusowjanya97@gmail.com",
     "mobile":"+91-9999999998"
   },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+
+  },
   "education":[
 
     {
@@ -21,5 +26,34 @@
       "institute":"Aravinda high school",
       "data":["2012-13","7.8"]
     }
+  ],
+  "achievements":[
+    {
+      "name":"Awarded as <b>1<sup>st</sup>price</b> in <q>self defense</q>"
+
+    },
+    {
+      "name":"Awarded as <b>2<sup>st</sup>price</b> in <q>throw ball</q>"
+    }
+  ],
+  "skills":[
+    {
+    "name":"programming language",
+    "data":["c","java","phython","c++"]
+  },
+  {
+    "name":"databases",
+    "data":["oracle","mysql"]
+  },
+  {
+    "name":"web technology",
+    "data":["HTML","css","javascript"]
+  },
+  {
+    "name":"libraries and frameworks",
+    "data":["jquery","codeigniter"]
+  }
   ]
+
+
 }
